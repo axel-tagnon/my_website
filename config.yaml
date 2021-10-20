@@ -5,8 +5,8 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: 
-  - image: londonbusinessschoolCampus.jpg
+  banner:
+    image: londonbusinessschoolCampus.jpg
     buttonText: Get Started
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP

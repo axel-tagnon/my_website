@@ -5,7 +5,8 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: london-business-school-Campus.jpg
+  banner: 
+  - image: londonbusinessschoolCampus.jpg
     buttonText: Get Started
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
@@ -57,7 +58,7 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/axel-tagnon/
-  image: london-business-school-Campus.jpg
+  image: 
   name: Axel Tagnon
   navigation:
     button1:

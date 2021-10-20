@@ -89,10 +89,10 @@ params:
         subtitle: Axel Tagnon
         title: Biography
         url: blogs/bio
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: bibfinal.jpg
+        subtitle: VP Careers of BiB 
+        title: Black in Business Club
+        url: blogs/bib
       - image: axel.jpg
         subtitle: Axel Tagnon
         title: Biography

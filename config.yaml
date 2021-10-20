@@ -11,7 +11,7 @@ params:
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Axel and I am an MFA2022 student at London Business School
-    image: pic06.jpg
+    background-image: pic06.jpg
   blog: {}
   contact:
     address:

@@ -85,10 +85,10 @@ params:
         subtitle: A conversation between Tabria Lenard MBA2021 and Axel Tagnon MFA2022 on where progress has been made and where there’s more to be done
         title: Taking stock and looking forward, Black in business in 2021
         url: https://www.london.edu/think/taking-stock-and-looking-forward?utm_source=LinkedIn&utm_medium=sm_channels&utm_campaign=lbsr_BHM21_TL_AT&sc_camp=F2FB8AFA24F54014959D5B136C2F96C1
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: axel.jpg
+        subtitle: Axel Tagnon
+        title: Biography
+        url: blogs/bio
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna

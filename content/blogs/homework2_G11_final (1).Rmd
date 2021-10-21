@@ -5,7 +5,7 @@ categories:
 date: "`r Sys.Date()`"
 description: Data Analytics Project 2 # the title that will show up once someone gets to this page
 draft: false
-
+image: data2.jpg
 keywords: ""
 slug: proj2 # slug is the shorthand URL address... no spaces plz
 title: Data Analytics Project 2

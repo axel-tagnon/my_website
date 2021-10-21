@@ -93,15 +93,15 @@ params:
         subtitle: VP Careers of BiB 
         title: Black in Business Club
         url: blogs/bib
-      - image: axel.jpg
+      - image: data1.jpg
         subtitle: Homework 1
         title: Data Analytics 
         url: blogs/proj1
-      - image: pic05.jpg
+      - image: data2.jpg
         subtitle: Homework 2
         title: Data Analytics
         url: blogs/proj2
-      - image: pic06.jpg
+      - image: data3.jpg
         subtitle: Homework 3
         title: Data Analytics
         url: blogs/proj3

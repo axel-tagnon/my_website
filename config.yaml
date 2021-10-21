@@ -94,17 +94,17 @@ params:
         title: Black in Business Club
         url: blogs/bib
       - image: axel.jpg
-        subtitle: Axel Tagnon
-        title: Biography
-        url: blogs/bio
+        subtitle: Homework 1
+        title: Data Analytics 
+        url: blogs/proj1
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: Homework 2
+        title: Data Analytics
+        url: blogs/proj2
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Homework 3
+        title: Data Analytics
+        url: blogs/proj3
   two:
     buttonText: Get Started
     enable: yes

@@ -15,7 +15,7 @@ author: "Group 11: Guido Bassi - 3542918
                    Mengyu Liu - 3753296
                    Nohad Mortada - 3689277
                    Jiaye Bai - 3808878
-                   Axel Tagnon - 3709761
+                   Axel Tagnon - 3709761  
                    Qingran Zhang 3730453"
                    
 
